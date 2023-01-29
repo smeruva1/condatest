@@ -4,4 +4,5 @@ countries = [ { "id": 4, "name": 'New Zealand' }, { "id": 1, "name": 'USA' }, { 
 
 df1 = pd.DataFrame(countries)
 
+print("Printing table contents")
 print(df1)
